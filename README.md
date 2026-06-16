@@ -124,6 +124,3 @@ The **Support Vector Machine (SVM)** achieved the highest performance with an F1
 This study demonstrates that classical machine learning models, particularly SVM, can achieve excellent performance on structured medical datasets. Ensemble methods also provide strong alternative solutions for classification tasks in healthcare applications.
 
 ---
-
-Maedeh Kalantari
-PhD Student – Healthcare Systems Management
